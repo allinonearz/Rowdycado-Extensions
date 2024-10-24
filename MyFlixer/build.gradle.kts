@@ -20,7 +20,7 @@ cloudstream {
     * 2: Slow
     * 3: Beta only
     * */
-    status = 0
+    status = 1
 
     tvTypes = listOf("Movies", "TV Series")
 
@@ -28,7 +28,7 @@ cloudstream {
     language = "en"
 
     // random cc logo i found
-    iconUrl = "https://myflixerz.me/images/favicon.png"
+    iconUrl = "https://myflixerz.to/images/favicon.png"
 }
 
 android {
